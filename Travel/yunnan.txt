@@ -1,0 +1,19 @@
+<html>
+   <head>
+      <title>SUMMER AND LOVE</title>
+      <style type="text/css">
+                    body{
+                             background-color: #FFCCCC;
+
+                   }
+       </style>
+   </head>
+   <body>
+       <h1>TRAVEL in YUNNAN</h1>   <!--一级标题-->
+       <img src="../images/2.jpg">
+       <p>There are some pictures about our travel in YUNNAN </p>
+       <h2>Directions</h2>
+       <a href="../My world.html">Back to my world</a>
+
+   </body>
+</html>

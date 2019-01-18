@@ -1,0 +1,35 @@
+body {
+	font-family:       Hanzipen SC, Yapi SC,Wawati SC,Songti SC,YouYua;
+	color:             #333;
+	background-color:  #E8CCFF;
+	background-image:  url(images/26.jpg);
+	background-size:   cover;
+	margin:            1em 10%;
+    }
+	
+h1 {
+	color:             #333;
+	background-color:  transparent;
+}
+	
+a {
+	color:             #c60;
+	background-color:  transparent;
+	font-weight:       bold;
+	text-decoration:   none;
+}
+
+ul {
+	padding:      0;
+}
+
+li {
+	float:        left;
+	padding:      1em;
+	list-style:   none;
+}
+
+img {
+	display:      block;
+	clear:        both;
+}

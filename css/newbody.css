@@ -1,0 +1,90 @@
+body{
+	margin-left:       10%;
+    margin-right:      10%;
+    padding:           10px 10px 10px 10px;
+	line-height:       20px;
+	font-size:         small;
+	background-color:  #CCDDFF;
+    font-family:       Hanzipen SC, Yapi SC,Wawati SC,Songti SC,YouYuan;
+    }
+	
+h1, h2 {
+	color: #007e7e;
+	}
+	
+h1 {
+	size: 150%;
+	}	
+	
+h2 {
+	size: 130%;
+	}	
+	
+p {
+	color:#6C3365;
+	text-decoration: blink;
+	font-weight: normal;
+	font-family: Hanzipen SC, Yapi SC,Wawati SC,Songti SC,YouYuan;
+  }
+
+  
+#body {
+	text-align:         left;
+	font-size:          105%;
+    padding:            15px;
+	margin:             0px 10px 10px 10px;
+	width:              280px;
+	float:              right;
+	}	
+
+#main{
+    font-size:         105%;
+    padding:           15px;
+	background-color:  #FFE4E1;
+    margin:            0px 400px 10px 10px;
+}	
+
+#total{
+
+	width:             1004px;
+	padding-top:       5px;
+	padding-bottom:    5px;
+	margin-left:       auto;
+	margin-right:      auto;
+}
+
+#like {
+	width:                300px;
+	background-image:     url(../images/2.jpg);
+	}
+#life {
+	width:                300px;
+	background-image:     url(../images/9.jpg);
+	}
+#travel {
+	width:                300px;
+	background-image:     url(../images/13.jpg);
+	}	
+#music {
+	width:                300px;
+	text-align:           left;
+	background-image:     url(../images/14.jpg);
+	}
+	
+	
+.cd{
+	font-weight:italic;
+}
+.art{
+	 font-weight:bold;
+}
+a:link{
+	color: yellow;
+}
+a:visited{
+	color: white;
+}
+a:hover{
+	background: #f88396;
+	color:#0d5353;
+}

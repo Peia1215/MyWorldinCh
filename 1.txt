@@ -1,0 +1,19 @@
+<html>
+   <head>
+      <title>养只鹅's World!</title>
+      <style type="text/css">
+                   body{
+                             background-color: #F0FFFF;
+                             font-family: sans-serif;
+                   }
+   </head>
+   <body>
+       <h1>Welcome to 养只鹅's world!</h1>   <!--一级标题-->
+       <img src="1.jpg">
+       <p>This is a super priviate world,</p>
+       <p>so, please be quiet when you come in!</p>
+        <h2>Directions</h2>
+        <a>Summer</p>
+
+      </body>
+</html>

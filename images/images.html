@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+	  <meta charset="utf-8"/>
+      <title>图片</title>
+	  <link rel="stylesheet" href="../css/layout.css" media="screen" />
+   </head>
+   <body>
+       <h1>照片墙</h1>   <!--一级标题-->
+       <p>这边有一些日常生活的照片 </p>
+	   <ul>
+	     <li>
+		   <a href="1.jpg" onclick = "showPic(this); 
+		   return false;" title="喜欢的一件衣服">喜欢的一件衣服</a>
+		   
+		 </li>
+	     <li>
+		   <a href="2.jpg" onclick = "showPic(this); 
+		   return false;" title="夏天的耳夹">夏天的耳夹</a>
+		 </li>
+		 <li>
+		   <a href="3.jpg" onclick = "showPic(this); 
+		   return false;" title="我的小恐龙手机壳">我的小恐龙手机壳</a>
+		 </li>
+		 <li>
+		   <a href="8.jpg" onclick = "showPic(this); 
+		   return false;" title="云南之跳！">云南之跳！</a>
+		 </li>
+		 <img id="placeholder" src="10.jpg" alt="my image gallery" />
+	   </ul>
+	   <script type="text/javascript" src="../script/showPic.js"></script>
+	   
+	   <p id="description">选择一个主题咯</p>
+	   <script type="text/javascript" src="../script/popUp.js"></script>
+	   
+	   <a href="javascript:popUp('http:/example.com/');">Example</a>
+	   
+	   <a href="http:/example.com/" 
+	      onclick="popUp(this.href); return false;">Example</a>
+		  
+       <a href="../MyWorld.html">回到主页</a>
+	   
+   </body>
+</html>

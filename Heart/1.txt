@@ -1,0 +1,20 @@
+<html>
+   <head>
+      <title>SUMMER AND LOVE</title>
+      <style type="text/css">
+                    body{
+                             background-color: #FFCCCC;
+
+                   }
+       </style>
+   </head>
+   <body>
+       <h1>SUMMER AND LOVE</h1>   <!--一级标题-->
+       <img src="../images/2.jpg">
+       <p>This is about this summer and my </p>
+       <p>so, please be quiet when you come in!</p>
+        <h2>Directions</h2>
+        <a href="../My world.html">Back to my world</a>
+
+      </body>
+</html>

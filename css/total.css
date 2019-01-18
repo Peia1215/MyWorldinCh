@@ -1,0 +1,19 @@
+h1, h2 {
+	font-family: Hanzipen SC, Yapi SC,Wawati SC,Songti SC,YouYuan;
+	color: #6C3365;
+	}
+	
+p {
+	color:#6C3365;
+	text-decoration: blink;
+	font-weight: normal;
+	font-family: Hanzipen SC, Yapi SC,Wawati SC,Songti SC,YouYuan;
+  }
+	
+body{
+	background-color: #EBD3E8;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px 10px 10px 10px;
+    font-family: Hanzipen SC, Yapi SC,Wawati SC,Songti SC,YouYuan;
+    }
